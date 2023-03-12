@@ -1,0 +1,12 @@
+.main-header{
+    max-width: 100%;
+    height: 100%;
+    background-color: #ee4d2d;
+}
+.right-nav{
+    display: inline;
+    color: white;
+    text-align: right;
+    padding: 16px;
+    text-decoration: none;
+}
